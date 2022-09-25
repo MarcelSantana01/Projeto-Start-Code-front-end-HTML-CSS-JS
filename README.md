@@ -1,0 +1,2 @@
+# Projeto-Start-Code-front-end-HTML-CSS-JS
+Este é meu primeiro projeto pessoal front-end, nesse projeto de uma pagina inicial de site de um empresa fictícia chamada Start Code. Este site é simples utilizando html css e Js, é totalmente responsivo utilizando media queries, que Adéqua a qualquer dispositivo, tem um sistema em javascript que mostra a localização e um sistema de menu integrado para celulares.
